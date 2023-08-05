@@ -64,7 +64,7 @@
 * `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding
 * `CACHE_TIME` : The maximum amount of time in seconds that the result of the inline query may be cached on the server
 * `IMDB` : Imdb, the view of information when making True/False
-* `SINGLE_BUTTON` : choose b/w single or double buttons 
+* `SINGLE_BUTTON` : choose b/w single or double butto,ns 
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 ### Url Shortner Variable
 * `SHORT_URL` : Url Of Shortner Site You Use
@@ -75,7 +75,7 @@
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SickXking11/PROFESSOR-BOT)
 
 ## Deploy to Koyeb
 
